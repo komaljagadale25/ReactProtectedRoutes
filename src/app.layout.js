@@ -1,6 +1,6 @@
 import React from "react"
 import auth from "./auth";
-
+//app layout for protected route
 export const AppLayout = (props) => {
     return (
         <div>
